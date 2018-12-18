@@ -1,0 +1,9 @@
+#include<iostreanm>
+using namespace std:
+int main()
+{
+
+cout<<"kakakunkun"<<endl;
+return 0;
+
+}
